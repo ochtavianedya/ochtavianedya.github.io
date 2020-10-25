@@ -1,0 +1,10 @@
+body{
+	font-family: "Poppins", sans-serif;
+}
+.detail-film span{
+	font-weight: bold;
+}
+.my_card:hover{
+	box-shadow: 2px 2px 12px rgba(0,0,0,0.5);
+	transition-duration: 0.4s;
+}
